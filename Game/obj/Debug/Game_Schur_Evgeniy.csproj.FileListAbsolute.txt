@@ -1,0 +1,39 @@
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\obj\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\obj\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v2\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\obj\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v3\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\obj\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Game_Schur_Evgeniy\Game_v4\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\Google Drive\C#\Game_v4\Game\bin\Debug\Game.exe.config
+G:\Google Drive\C#\Game_v4\Game\obj\Debug\Game.exe
+G:\Google Drive\C#\Game_v4\Game\obj\Debug\Game.pdb
+G:\Google Drive\C#\Game_v4\Game\bin\Debug\Game.exe
+G:\Google Drive\C#\Game_v4\Game\bin\Debug\Game.pdb
+G:\Google Drive\C#\Game_v4\Game\obj\Debug\Game_Schur_Evgeniy.csprojResolveAssemblyReference.cache
+G:\Google Drive\C#\Game Guess_the_Number(Schur Evgeniy)\Game\bin\Debug\Game.exe.config
+G:\Google Drive\C#\Game Guess_the_Number(Schur Evgeniy)\Game\obj\Debug\Game.exe
+G:\Google Drive\C#\Game Guess_the_Number(Schur Evgeniy)\Game\obj\Debug\Game.pdb

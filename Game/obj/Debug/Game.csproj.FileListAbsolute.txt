@@ -1,0 +1,6 @@
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.exe.config
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.exe
+G:\C#\Univercity\Control work\Game\Game\bin\Debug\Game.pdb
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game.exe
+G:\C#\Univercity\Control work\Game\Game\obj\Debug\Game.pdb
